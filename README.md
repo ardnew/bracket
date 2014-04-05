@@ -20,7 +20,7 @@
       if (bracket.readFile("/Users/andrew/brackettest/in.dat"))
       {
         bracket.print();
-        //bracket.writeFile("/Users/andrew/brackettest/out.dat");
+        bracket.writeFile("/Users/andrew/brackettest/out.dat");
       }
     }
   }

@@ -14,7 +14,6 @@
   {
     public static void main(String[] args)
     {
-  
       Tree<String> bracket = new Tree<String>();
   
       if (bracket.readFile("/Users/andrew/brackettest/in.dat"))
